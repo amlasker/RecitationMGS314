@@ -2,3 +2,8 @@ points_obtained = 75
 total_points = 100
 percentage = (points_obtained/total_points)*100
 print(percentage)
+
+Student="I am a UB Student"
+print(Student[0])
+print(Student[3])
+print(Student[-2])
